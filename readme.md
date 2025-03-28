@@ -1,1 +1,1 @@
-python project template
+the terrifying parsing bohemoth I used to parse this club's inane data schema
